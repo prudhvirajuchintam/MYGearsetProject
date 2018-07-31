@@ -4,5 +4,13 @@
     <members>Test_Object__c</members>
     <name>CustomObject</name>
   </types>
+  <types>
+    <members>Test_Object__c-Test Object Layout</members>
+    <name>Layout</name>
+  </types>
+  <types>
+    <members>Admin</members>
+    <name>Profile</name>
+  </types>
   <version>38.0</version>
 </Package>
