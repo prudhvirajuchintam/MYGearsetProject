@@ -14,6 +14,10 @@
         <editable>false</editable>
         <field>Test_Object__c.Test_Field4__c</field>
         <readable>true</readable>
+    </fieldPermissions><fieldPermissions>
+        <editable>true</editable>
+        <field>Test_Object__c.Test_Field6__c</field>
+        <readable>true</readable>
     </fieldPermissions><layoutAssignments>
         <layout>Test_Object__c-Test Object Layout</layout>
     </layoutAssignments><recordTypeVisibilities>
