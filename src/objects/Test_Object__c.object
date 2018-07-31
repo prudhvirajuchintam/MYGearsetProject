@@ -80,7 +80,7 @@
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>false</unique>
-    </fields><allowInChatterGroups>false</allowInChatterGroups><compactLayoutAssignment>SYSTEM</compactLayoutAssignment><deploymentStatus>Deployed</deploymentStatus><description>This objects just for CI JOBS testing</description><enableActivities>false</enableActivities><enableBulkApi>true</enableBulkApi><enableFeeds>false</enableFeeds><enableHistory>false</enableHistory><enableReports>false</enableReports><enableSearch>false</enableSearch><enableSharing>true</enableSharing><enableStreamingApi>true</enableStreamingApi><label>Test Object</label><nameField>
+    </fields><allowInChatterGroups>false</allowInChatterGroups><compactLayoutAssignment>SYSTEM</compactLayoutAssignment><deploymentStatus>Deployed</deploymentStatus><description>This objects just for CI JOBS testing</description><enableActivities>false</enableActivities><enableBulkApi>true</enableBulkApi><enableChangeDataCapture>false</enableChangeDataCapture><enableFeeds>false</enableFeeds><enableHistory>false</enableHistory><enableReports>false</enableReports><enableSearch>false</enableSearch><enableSharing>true</enableSharing><enableStreamingApi>true</enableStreamingApi><label>Test Object</label><nameField>
         <label>Test Object Name</label>
         <type>Text</type>
-    </nameField><pluralLabel>Test Objects</pluralLabel><searchLayouts /><sharingModel>ReadWrite</sharingModel></CustomObject>
+    </nameField><pluralLabel>Test Objects</pluralLabel><searchLayouts /><sharingModel>ReadWrite</sharingModel><visibility>Public</visibility></CustomObject>
