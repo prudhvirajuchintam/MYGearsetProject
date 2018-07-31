@@ -14,7 +14,9 @@
         <editable>false</editable>
         <field>Test_Object__c.Test_Field4__c</field>
         <readable>true</readable>
-    </fieldPermissions><recordTypeVisibilities xmlns="http://soap.sforce.com/2006/04/metadata">
+    </fieldPermissions><layoutAssignments>
+        <layout>Test_Object__c-Test Object Layout</layout>
+    </layoutAssignments><recordTypeVisibilities>
         <default>false</default>
         <personAccountDefault>true</personAccountDefault>
         <recordType>PersonAccount.PersonAccount</recordType>
