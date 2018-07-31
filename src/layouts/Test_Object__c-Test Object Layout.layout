@@ -26,6 +26,10 @@
                 <behavior>Readonly</behavior>
                 <field>Test_Field4__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Test_Field6__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
