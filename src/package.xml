@@ -10,7 +10,12 @@
   </types>
   <types>
     <members>Test_Object__c-Test Object Layout</members>
+    <members>Test_Object__c-Test Page</members>
     <name>Layout</name>
+  </types>
+  <types>
+    <members>Test_Object__c-en_US</members>
+    <name>CustomObjectTranslation</name>
   </types>
   <version>43.0</version>
 </Package>
