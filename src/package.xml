@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
   <types>
     <members>Test_Object__c</members>
+    <members>PL_Product_Availability__c</members>
     <name>CustomObject</name>
   </types>
   <types>

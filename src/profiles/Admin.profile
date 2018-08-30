@@ -556,6 +556,11 @@
         <field>Case.Type</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>PL_Product_Availability__c.testGearSet__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Test_Object__c-Test Object Layout</layout>
     </layoutAssignments>
