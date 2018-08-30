@@ -1,8 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-  <types>
-    <members>PL_Product_Availability__c</members>
-    <name>CustomObject</name>
-  </types>
+  
   <version>43.0</version>
 </Package>
