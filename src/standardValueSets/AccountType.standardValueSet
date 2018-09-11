@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>M Branch</fullName>
+        <default>false</default>
+        <label>M Branch</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Processing Center</fullName>
+        <default>false</default>
+        <label>Processing Center</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Third Party Administrator</fullName>
+        <default>false</default>
+        <label>Third Party Administrator</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Trust Company</fullName>
+        <default>false</default>
+        <label>Trust Company</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Producer Firm</fullName>
+        <default>false</default>
+        <label>Producer Firm</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Lender</fullName>
+        <default>false</default>
+        <label>Lender</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Broker Dealer</fullName>
+        <default>false</default>
+        <label>Broker Dealer</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Producer Group</fullName>
+        <default>false</default>
+        <label>Producer Group</label>
+    </standardValue>
+    <standardValue>
+        <fullName>BD General Agent</fullName>
+        <default>false</default>
+        <label>BD General Agent</label>
+    </standardValue>
+    <standardValue>
+        <fullName>General Agency</fullName>
+        <default>false</default>
+        <label>General Agency</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales Office</fullName>
+        <default>false</default>
+        <label>Sales Office</label>
+    </standardValue>
+    <standardValue>
+        <fullName>General Agent Office</fullName>
+        <default>false</default>
+        <label>General Agent Office</label>
+    </standardValue>
+    <standardValue>
+        <fullName>IMO</fullName>
+        <default>false</default>
+        <label>IMO</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Master Record</fullName>
+        <default>false</default>
+        <label>Master Record</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Branch Office</fullName>
+        <default>false</default>
+        <label>Branch Office</label>
+    </standardValue>
+</StandardValueSet>

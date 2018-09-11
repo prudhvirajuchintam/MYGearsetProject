@@ -3,6 +3,8 @@
   <types>
     <members>Test_Object__c</members>
     <members>ExceptionLog__c</members>
+    <members>Account</members>
+    <members>PL_Channel_Goals__c</members>
     <name>CustomObject</name>
   </types>
   <types>
@@ -17,6 +19,14 @@
   <types>
     <members>Test_Object__c-en_US</members>
     <name>CustomObjectTranslation</name>
+  </types>
+  <types>
+    <members>AccountType</members>
+    <members>AccountRating</members>
+    <members>AccountOwnership</members>
+    <members>Industry</members>
+    <members>LeadSource</members>
+    <name>StandardValueSet</name>
   </types>
   <version>43.0</version>
 </Package>
